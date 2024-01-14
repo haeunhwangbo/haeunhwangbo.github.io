@@ -1,7 +1,8 @@
 github_users:
   - haeunhwangbo
+  - palmerlabunc
   - Wangmoaza
 
 github_repos:
-  - haeunhwangbo/clinical-additivity
-  - haeunhwangbo/survival-benefit
+  - palmerlabunc/clinical-additivity
+  - palmerlabunc/survival-benefit
